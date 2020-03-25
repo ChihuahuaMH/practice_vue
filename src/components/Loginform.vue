@@ -50,7 +50,7 @@ export default {
     data() {
         return {
         email: "chihuahua@gmail.com",
-        password: "11shinhwa26"
+        password: ""
         };
     },
 
